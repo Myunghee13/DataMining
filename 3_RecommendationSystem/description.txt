@@ -1,0 +1,3 @@
+task1: Min-Hash + LSH
+task2: Content-based Recommendation System
+task3: Collaborative Filtering Recommendation System
